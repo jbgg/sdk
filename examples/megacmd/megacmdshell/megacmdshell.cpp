@@ -33,6 +33,8 @@
 #include <algorithm>
 #include <stdio.h>
 
+#include <string.h>
+
 enum
 {
     MCMD_OK = 0,              ///< Everything OK

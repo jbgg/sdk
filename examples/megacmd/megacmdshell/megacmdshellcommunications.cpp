@@ -27,6 +27,8 @@
 #include <iostream>
 #include <sstream>
 
+#include <string.h>
+
 #ifdef _WIN32
 #include <shlobj.h> //SHGetFolderPath
 #include <Shlwapi.h> //PathAppend
